@@ -9,6 +9,12 @@
 </div> 
 
 <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+<a href="https://www.freecodecamp.org/certification/DevLegend/javascript-algorithms-and-data-structures-v8">javascript-algorithms-and-data-structures-v8</a>
+<a href="https://www.freecodecamp.org/certification/DevLegend/responsive-web-design">responsive-web-design</a>
+<a href="https://www.hackerrank.com/certificates/1685a2b604a9"></a>
+<a href="https://www.hackerrank.com/certificates/8b06fa5b89c9"></a>
+<a href="https://www.hackerrank.com/certificates/34ef6aefa3e9"></a>
+<a href="https://www.hackerrank.com/certificates/7dc2234854dd"></a>
 
 <div align="center" style="witdh:100%"> 
   <table>
