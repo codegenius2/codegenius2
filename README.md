@@ -81,11 +81,6 @@
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-   
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=naruhitokaide&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
-
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
