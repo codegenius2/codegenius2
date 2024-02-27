@@ -74,10 +74,6 @@
 </div> 
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/portfolio.png" alt="Portfolio"/>
-</div> 
-
-<div align="center">
 <img src="./profile-3d-contrib/profile-season-animate.svg"/>
 </div> 
 
