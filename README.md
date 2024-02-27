@@ -63,7 +63,6 @@
        <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Tensorflow-blue" />
         <img src="https://img.shields.io/badge/Pytorch-blue" /> 
-        <img src="https://img.shields.io/badge/Scikit-learn-blue" /> 
         <img src="https://img.shields.io/badge/R-blue" /> 
         <img src="https://img.shields.io/badge/Keras-blue" /> 
         <img src="https://img.shields.io/badge/OpenCV-blue" />
