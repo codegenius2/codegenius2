@@ -2,26 +2,21 @@
   Welcome to my GitHub.
 </h1>
 <h3 align="center">
-  I am a Full Stack & Blockchain Developer.
+  I am a AI & Blockchain Developer.
 </h3>
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
 
 <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
-<!-- <a href="https://www.freecodecamp.org/certification/DevLegend/javascript-algorithms-and-data-structures-v8">javascript-algorithms-and-data-structures-v8</a>
-<a href="https://www.freecodecamp.org/certification/DevLegend/responsive-web-design">responsive-web-design</a>
-<a href="https://www.hackerrank.com/certificates/1685a2b604a9"></a>
-<a href="https://www.hackerrank.com/certificates/8b06fa5b89c9"></a>
-<a href="https://www.hackerrank.com/certificates/34ef6aefa3e9"></a>
-<a href="https://www.hackerrank.com/certificates/7dc2234854dd"></a>
- -->
+
 <div align="center" style="witdh:100%"> 
   <table>
     <tr>
-      <td valign="center" width="100px"><b>Frontend<b></td>
-      <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
+      <td valign="center" align="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" align="center" width="100px"><b>Backend<b></td>
+      <td valign="center" align="center" width="100px"><b>Blockchain<b></td>
+      <td valign="center" align="center" width="100px"><b>AI<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -64,6 +59,14 @@
         <img src="https://img.shields.io/badge/Solidity-blue" /> 
         <img src="https://img.shields.io/badge/Solana-blue" /> 
         <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
+      </td>
+       <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Tensorflow-blue" />
+        <img src="https://img.shields.io/badge/Pytorch-blue" /> 
+        <img src="https://img.shields.io/badge/Scikit-learn-blue" /> 
+        <img src="https://img.shields.io/badge/R-blue" /> 
+        <img src="https://img.shields.io/badge/Keras-blue" /> 
+        <img src="https://img.shields.io/badge/OpenCV-blue" />
       </td>
     </tr>
   </table>
