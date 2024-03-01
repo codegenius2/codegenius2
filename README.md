@@ -2,7 +2,7 @@
   Welcome to my GitHub.
 </h1>
 <h3 align="center">
-  I am a AI & Blockchain Developer.
+  I am a Web Developer.
 </h3>
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
