@@ -2,14 +2,16 @@
   Welcome to my GitHub.
 </h1>
 <h3 align="center">
- 🚀 Senior Full-Stack Developer & Automation Specialist 🚀
+🚀 Senior Full-Stack Developer & Automation Specialist 🚀
 </h3>
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
 <div>
+# Hi there 👋
+
 ```rust
-    let _0xExp: &str = "Blockchain Engineer";
+    let _0xExp: &str = "Senior Full-Stack Developer & Automation Specialist";
     let learning: bool = true;
 
     let mut possible: bool = false;
