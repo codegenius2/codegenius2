@@ -7,6 +7,27 @@
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
+<div>
+```rust
+    let _0xExp: &str = "Blockchain Engineer";
+    let learning: bool = true;
+
+    let mut possible: bool = false;
+    let mut possibleState: &str = "Impossible";
+
+    fn keep_coding(possible: &mut bool, possibleState: &mut &str) {
+        *possible = true;
+        *possibleState = "I'm possible";
+    }
+
+    while learning {
+        keep_coding(&mut possible, &mut possibleState);
+    }
+```
+ <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
+
+</div>
+</div>
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
 </div> 
