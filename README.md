@@ -1,5 +1,6 @@
 <h1 align="center">
   Welcome to my GitHub.
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" />
 </h1>
 <h3 align="center">
 🚀 Senior Full-Stack Developer & Automation Specialist 🚀
@@ -8,7 +9,6 @@
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
 <div>
-# Hi there 👋
 
 ```rust
     let _0xExp: &str = "Senior Full-Stack Developer & Automation Specialist";
@@ -26,7 +26,26 @@
         keep_coding(&mut possible, &mut possibleState);
     }
 ```
- <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
+ <img alt='coding' align='right' height='300' src="./assests/images/coding.gif" />
+
+  <ul>
+
+  <li>💼 <strong>Expertise</strong>: Full-stack development, automation, custom bots, and scalable solutions</li>
+  <li>🏆 <strong>Key Accomplishment</strong>: 
+   <ol> Successfully developed high-traffic websites using React, Next.js, and Vue for international clients. </ol>
+   <ol> Built and deployed Chrome extensions and custom bots for automation in web scraping and API integration.</ol>
+   <ol> Led the development of high-performance backend services using Python and Node.js, integrated with AWS for scalable deployment.</ol>
+   <ol> Extensive experience with proxy dashboards and monitoring systems. </ol>
+  </li>
+  <li>⏰ <strong>Availability</strong>: Open for part-time or long-term collaboration</li>
+  <li>💬 <strong>Why Hire Me?</strong>: With 6+ years of experience across full-stack development, automation, and bot development, I bring a versatile skill set to help you build high-quality and scalable applications. Whether you need to launch a new product, improve existing systems, or automate processes, I’m ready to bring your vision to life with precision and speed.
+  </li>
+  <li>🌱 <strong>Currently Learning</strong>: 
+    <ol><strong>AI/ML Integration:</strong> Exploring ways to integrate AI models with web applications.</ol>
+    <ol><strong>Rust:</strong> For low-level performance and blockchain development.</ol>
+    <ol><strong>Go:</strong> Learning for building efficient microservices and concurrency.</ol>
+  </li>
+</ul>
 
 </div>
 </div>
