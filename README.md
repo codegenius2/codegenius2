@@ -11,7 +11,7 @@
 <div>
 
 ```rust
-    let _0xExp: &str = "Senior Full-Stack Developer & Automation Specialist";
+    let codegenius2: &str = "Senior Full-Stack Developer & Automation Specialist";
     let learning: bool = true;
 
     let mut possible: bool = false;
